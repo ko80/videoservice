@@ -1,0 +1,13 @@
+[API]
+IsProd = true
+
+ListenPort = 3000
+
+ThumbnailWidth = 160
+ThumbnailHeight = 128
+
+[Framer]
+MaxProcesses = 16
+
+[Storage]
+LocalDirectory = "video"
